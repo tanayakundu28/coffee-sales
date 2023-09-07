@@ -46,5 +46,7 @@ Data Updates: If the source data changes, make sure to refresh the Pivot Tables 
 
 ## Conclusion
 This Excel project on coffee sales analysis provides valuable insights into sales trends, customer behavior, and profitability. The use of advanced Excel functions and visualization tools enhances the decision-making process for coffee sales-related strategies. A snap of the dasboard is attached.
-![coffeeOrdersDashboard](https://github.com/tanayakundu28/coffee-sales/assets/99383059/d4bc612f-0145-4d7e-9503-ddb5f9219b67)
+
+![coffeeOrdersDashboard](https://github.com/tanayakundu28/coffee-sales/assets/99383059/96bed8ba-8771-426e-8952-fbdf02ac0e22)
+
 
